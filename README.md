@@ -1,2 +1,6 @@
 # Project
-ProjectSem4Java
+IDE : NETBEAN 8.0.2
+SQL SERVER 2014
+WEB SERVER : GLASFISH 4.1
+
+
